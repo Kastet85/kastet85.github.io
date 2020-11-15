@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Zabbix on MariaDB"
+title: "Zabbix on MariaDB"
 ---
 
 # Zabbix on MariaDB
