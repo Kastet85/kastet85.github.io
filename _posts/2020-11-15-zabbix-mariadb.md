@@ -1,5 +1,6 @@
 ---
-title: "Zabbix on MariaDB"
+title: "my title"
+date: 2020-11-15
 ---
 
 # Zabbix on MariaDB
