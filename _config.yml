@@ -2,3 +2,5 @@ github:
   is_project_page: false
 theme: jekyll-theme-cayman
 title: IT fish
+
+show_excerpts: true # set to false to remove excerpts on the homepage
