@@ -1,4 +1,4 @@
 github:
   is_project_page: false
-theme: minima
+theme: jekyll-theme-minimal
 title: IT fish
